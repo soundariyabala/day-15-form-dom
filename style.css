@@ -1,25 +1,25 @@
 .label{
     font-weight: bolder;
 }
-#one{
+#first-name{
     border:2px solid black;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px;
     background-color:rgb(135, 244, 244);
 }
-#two{
+#last-name{
     border:2px solid black;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px;
     background-color:rgb(135, 244, 244);
 }
-#three{
+#address{
     border:2px solid black;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px;
     background-color:rgb(135, 244, 244);
 }
-#four{
+#pincode{
     border:2px solid black;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px;
@@ -31,19 +31,19 @@
     box-shadow: 2px 2px 2px 2px;
     background-color:rgb(135, 244, 244);
 }
-#five{
+#food{
     border:2px solid black;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px;
     background-color:rgb(135, 244, 244);
 }
-#six{
+#state{
     border:2px solid black;
      border-radius: 10px;
      box-shadow: 2px 2px 2px 2px;
      background-color:rgb(135, 244, 244);
 }
-#seven{
+#country{
     border:2px solid black;
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px;
